@@ -10,19 +10,19 @@ const DisplayHome = () => {
       id: 1,
       name: "Crear beneficio",
       description: "Agrega un nuevo beneficio al catálogo.",
-      image: "https://via.placeholder.com/400x200?text=Crear+Beneficio"
+      //image: "https://via.placeholder.com/400x200?text=Crear+Beneficio"
     },
     {
       id: 2,
       name: 'Cinemark',
       description: '50% de descuento todos los miércoles.',
-      image: 'https://s3-media0.fl.yelpcdn.com/bphoto/cDkEQM_QYNuKGdMnB7J-cA/o.jpg',
+      //image: 'https://s3-media0.fl.yelpcdn.com/bphoto/cDkEQM_QYNuKGdMnB7J-cA/o.jpg',
     },
     {
       id: 3,
       name: 'Olive garden',
       description: '10% de descuento en comida saludable.',
-      image: 'https://149446312.v2.pressablecdn.com/wp-content/uploads/2022/09/Olive-Garden-Manila-48-scaled.jpeg',
+      //image: 'https://149446312.v2.pressablecdn.com/wp-content/uploads/2022/09/Olive-Garden-Manila-48-scaled.jpeg',
     }
   ]);
 
